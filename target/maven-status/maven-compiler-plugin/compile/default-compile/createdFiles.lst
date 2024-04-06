@@ -1,0 +1,5 @@
+com\example\demo\service\KafkaConsumerService.class
+com\example\demo\SpringBootKafkaDemoApplication.class
+com\example\demo\config\KafkaConfiguration.class
+com\example\demo\controller\KafkaController.class
+com\example\demo\service\KafkaProducerService.class
